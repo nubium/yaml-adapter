@@ -9,6 +9,11 @@
     "require-dev": {
         "nette/tester": "^2.0"
     },
+    "autoload": {
+        "psr-4": {
+            "Nubium\\": "src"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
