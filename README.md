@@ -23,4 +23,4 @@ Learn more in [documentation](https://github.com/Nubium/Yaml-Adapter/blob/master
 
 -----
 
-Homepage [http://www.nubium.cz](http://www.nubium.cz) and repository [http://github.com/Kdyby/Monolog](http://github.com/Nubium/Yaml-Adapter).
+Homepage [http://www.nubium.cz](http://www.nubium.cz) and repository [http://github.com/Nubium/Yaml-Adapter](http://github.com/Nubium/Yaml-Adapter).
