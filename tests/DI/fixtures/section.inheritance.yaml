@@ -1,0 +1,10 @@
+common:
+  application:
+    errorPresenter: Error
+  
+  database:
+    user: root
+
+development < common:
+  application!:
+    applicationConfigOveriden: true
