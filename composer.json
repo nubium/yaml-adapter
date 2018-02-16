@@ -3,7 +3,7 @@
     "description": "Yaml adapter for nette/di.",
     "type": "library",
     "require": {
-        "nette/di": "2.4",
+        "nette/di": "~2.4",
         "symfony/yaml": "*"
     },
     "require-dev": {
